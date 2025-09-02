@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: docker push vachanaa/vachana:9
+        image:vachanaa/vachana:10
         ports:
         - containerPort: 8080
 ---
